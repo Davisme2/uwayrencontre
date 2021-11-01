@@ -9,7 +9,7 @@
 		private $host = 'localhost';
 		private $name = 'sitederencontres';
 		private $user = "root";
-		private $pass = 'root';
+		private $pass = 'LJSF§£%%/§/.°980732mlsdjfsf';
 		private $connexion;
 	
 		function __construct($host = null, $name = null, $user = null, $pass = null){
